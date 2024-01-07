@@ -2547,7 +2547,7 @@ textarea.form-control {
 }
 
 .btn:hover {
-  color: #212529;
+  color: #ff0000;
   text-decoration: none;
 }
 
@@ -2566,7 +2566,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
+  color: #ff0000;
   background-color: #007bff;
   border-color: #007bff;
 }
